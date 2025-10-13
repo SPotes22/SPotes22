@@ -50,4 +50,4 @@
 
 ---
 `Contact: potesdev@gmail.com | GitHub: SPotes22`
-`This profile exists to prove that you can learn, build, and share useful code without a Silicon Valley pedigree. Here, there is no pose, only code.`
+`This profile exists to prove that you can learn, build, and share useful code without a Silicon Valley pedigree. Here, there is no pose, only code.
