@@ -35,6 +35,25 @@
 - **Infrastructure as Code:** Server automation, security-by-design principles.
 - **Productivity Engineering:** Chatbots and tools for small teams that measurably save time.
 
+---
+
+## 🔭 Active Incantations (in progress)
+
+🔹 [OctoMatrix](https://www.kaggle.com/code/santiagopotes/octomatrix-poc-moe-owasp) —  
+Proof-of-concept pipeline for OWASP traffic detection using regex + ML (Random Forest + XGBoost).  
+Focus: Threat modeling, feature extraction, and dataset hygiene. *Currently refining model confidence calibration.*
+
+🔹 [PiTec](https://github.com/SPotes22/PiTec) —  
+Modular invoicing chatbot built with Flask + PHP logic bridge.  
+Focus: Secure automation and minimal, auditable API structure. *Early alpha prototype.*
+
+🔹 [SpiderStock (DeFi Prototype)](https://github.com/SPotes22/Plataformas-de-Gobernanza-Descentralizada-y-DAOs-Mejoradas-por-LLMs-en-Avalanche) —  
+Auditable data layer for open financial ecosystems on Avalanche.  
+Focus: Smart-contract governance, verifiable transactions, and AI-assisted audits. *Architectural backbone complete, expansion in progress.*
+
+
+---
+
 **Project Portfolio**
 - **PiTec:** Modular invoicing chatbot with logic separated in PHP and Flask (Hackathon implementation).
 - **OctoMatrix:** Ensuring resilience on free-tier infrastructure.
