@@ -9,7 +9,7 @@ Construyo aplicaciones web backend con Python y me interesa el desarrollo seguro
 | Proyecto | Qué es | Stack | Demo |
 | --- | --- | --- | --- |
 | **Modular Exams** | Plataforma de exámenes en línea, usada por ~15 estudiantes de una clienta real | Python · PostgreSQL | [demo](https://modular-exams.onrender.com/) |
-| **PI Music** | App estilo "Spotify Wrapped" con resúmenes generados por IA | Flask · API de Spotify  | [demo](https://pimusic.onrender.com/) |
+| **PI Music** | App estilo "Spotify Wrapped" con top 10 generado | Flask · API de Spotify  | [demo](https://pimusic.onrender.com/) |
 | **Pereira Explorer AI** | Recomendador de planes en Pereira con IA | Python · Gemini | [demo](https://pereira-explorer-ai-parchate-pereira.onrender.com/) |
 
 ## Stack
